@@ -1,0 +1,11 @@
+Compiled source #
+###################
+.DS_Store
+*.log
+target/*
+
+
+# Intellij Idea generated files #
+######################
+*.idea
+*.iml
